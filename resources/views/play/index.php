@@ -22,10 +22,10 @@
                 <input name="quiz_title" type="text" style="width:20rem;" maxlength="40">
                 <h3>クイズの選択肢を入力してください</h3>
                 <ul class="list-group">
-                    1:<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
-                    2:<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
-                    3:<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
-                    4:<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
+                    1：<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
+                    2：<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
+                    3：<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
+                    4：<input name="quiz_title" type="text" class="list-group-item list-group-item-action" maxlength="20"><br>
                 </ul>
             </div>
         </div>
